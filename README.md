@@ -1,4 +1,4 @@
-This script evaluates machine learning models on a dataset of car reviews using the Hugging Face ecosystem (`transformers` and `evaluate`). It performs four NLP workflows: **sentiment analysis evaluation**, **machine translation with BLEU scoring**, **extractive question answering**, and **text summarization with bias/toxicity metrics**.
+This project evaluates machine learning models on a dataset of car reviews using the Hugging Face ecosystem (`transformers` and `evaluate`). It performs four NLP workflows: **sentiment analysis evaluation**, **machine translation with BLEU scoring**, **extractive question answering**, and **text summarization with bias/toxicity metrics**.
 
 ---
 
